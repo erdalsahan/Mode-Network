@@ -5,7 +5,7 @@
 > [Buradan](https://bridge.mode.network/) kullanabilirsiniz köprüyü. Ben Mode Network'u `çok sevdim çok.`
 
 ```
-# RPC bilgileri:
+# RPC bilgileri: 
 Mode Testnet
 https://sepolia.mode.network
 919
